@@ -1,5 +1,7 @@
 # Introdução à Estatística c/ Python
 
+http://augustobaffa.pro.br/site/cursos-e-material-de-aula/
+http://www.youtube.com/augusto_baffa
 
 ### Objetivo da Disciplina:
 
